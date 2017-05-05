@@ -19,3 +19,6 @@
 
 - [x] Applications scenarios of 7, 8, 9, and 12.
 - [x] Requirements of 7, 8, 9, and 12 scenarios.
+
+**Gaurav Kulkarni**
+- [x] Created Active structure diagram
